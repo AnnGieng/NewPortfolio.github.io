@@ -333,14 +333,14 @@ i{
 .progress {
   width: 80%;
   height: 10px;
-  background-color: #ccc;
+  background-color: var(--color-grey-4);
   position: relative;
 }
 
 .progress span {
   display: block;
   height: 100%;
-  background-color: #4caf50; /* Adjust the color to match your design */
+  background-color: var(--color-secondary); /* Adjust the color to match your design */
 }
 .HTML5{
   width: 80%;
